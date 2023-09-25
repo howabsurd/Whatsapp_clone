@@ -48,27 +48,28 @@ We welcome contributions from the open-source community to help us achieve our f
 
 To run the project locally or explore the codebase, follow these steps:
 
-1. Clone the repository:
+1. Clone the GitHub repository:
 
-```bash
-git clone https://github.com/howabsurd/whatsapp-clone.git
+   ```bash
+   git clone https://github.com/howabsurd/whatsapp_clone.git
 
-2. Install Dependencies:
+2. Install the required dependencies:
 
-Navigate to the project directory:
+   ```bash
+   npm install
 
-cd whatsapp-clone
+**Firebase Configuration:**
 
 3. Install the required dependencies:
-npm install
 
-Firebase Configuration:
+   ```bash
+   https://console.firebase.google.com/
 
-4. Create a Firebase project at https://console.firebase.google.com/.
+4. Configure Firebase for the project by adding your Firebase project credentials to the project's configuration file.
 
-5. Configure Firebase for the project by adding your Firebase project credentials to the project's configuration file.
+5. Start the Development Server:
 
-Start the Development Server:
+   ```bash
+   npm start
 
-npm start
 The application should now be running locally. You can access it in your web browser at http://localhost:3000.
