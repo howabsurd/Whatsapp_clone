@@ -51,7 +51,7 @@ To run the project locally or explore the codebase, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/howabsurd/whatsapp-clone.git```
+git clone https://github.com/howabsurd/whatsapp-clone.git
 
 2. Install Dependencies:
 
