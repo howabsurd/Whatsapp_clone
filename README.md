@@ -73,3 +73,11 @@ To run the project locally or explore the codebase, follow these steps:
    npm start
 
 The application should now be running locally. You can access it in your web browser at http://localhost:3000.
+
+## Deployed On Firebase Hosting 
+
+Checkout the link below
+
+ ```bash
+   social-media-4bfd4.firebaseapp.com
+
