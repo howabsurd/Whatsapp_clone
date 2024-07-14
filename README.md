@@ -79,5 +79,5 @@ The application should now be running locally. You can access it in your web bro
 Checkout the link below
 
  ```bash
-   social-media-4bfd4.firebaseapp.com
+   https://whatsapp-clone-nine-hazel.vercel.app/
 
